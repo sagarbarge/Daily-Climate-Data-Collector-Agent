@@ -1,6 +1,5 @@
 # Daily-Climate-Data-Collector-Agent
 
-# Daily Climate Data Collector Agent
 
 An automated Python pipeline that collects daily climate data from
 public APIs, validates it, stores it, and logs the process.
